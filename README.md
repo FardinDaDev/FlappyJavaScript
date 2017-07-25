@@ -1,2 +1,0 @@
-# FlappyJavaScript
-Flappy-Javascript
